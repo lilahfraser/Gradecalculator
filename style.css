@@ -1,0 +1,11 @@
+body{
+    background-image: url("img/pink.jpg");
+    color: black;
+    text-align:center;
+}
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align:center;
+    }
+
